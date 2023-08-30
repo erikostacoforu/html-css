@@ -1,0 +1,18 @@
+html {
+   
+}
+
+body {
+    background-color: white;
+    background-image: url(pictures/bomb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    
+    
+}
+
+h1 {
+    background-color: red;
+}
+
